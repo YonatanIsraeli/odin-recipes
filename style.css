@@ -1,0 +1,22 @@
+body {
+    background-image: url("images/backround.jpg");
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+div {
+    width: 300px;
+    height: auto;
+}
+a{
+    max-width: 100%;
+    height: auto;
+    -ms-text-size-adjust: auto;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
